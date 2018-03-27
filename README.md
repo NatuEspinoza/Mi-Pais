@@ -1,7 +1,8 @@
-![Mi País](https://i.imgur.com/Erm9BXg.png)
+# Mi Viaje
 ## Propuesta de Valor
-
 Una plataforma sencilla, rápida y segura, donde se incluyen alertas personalizadas y un diseño visual para **mejorar la confianza al realizar cada uno de los tramites, especialmente en las transferencias de dinero** donde se permitirá al usuario confirmar que esta llego al destinatario correcto y avisar desde la misma app. También podrá arrepentirse de realizar la transferencia y visualizar la información del saldo antes y después de haber realizado la transacción.
+
+![Mi País](https://i.imgur.com/Erm9BXg.png)
 
 
 ## Etapas del proyecto
@@ -96,13 +97,10 @@ Como resultado del primer test los usuarios no ven la sección de ayuda como una
 También al finalizar la transferencia ambos usuarios avisaron por el correo (por formalidad) y por qué es a lo que ya están acostumbrados.
 Por otro lado, varios usuarios mencionaron que antes de llegar hacer click en “transferir”,al realizar su transferencia irían a revisar su historial para verificar si se realizó la transacción con éxito. En base a esta observación se decidió agregar un botón al finalizar la transferencia, que les permita a los usuarios ir a ver su historial inmediatamente.
 
-**[Ver acá primer prototipo](https://marvelapp.com/40gc26b/screen/39114286)**
 
 ### 5. Prototipo final MVP
 
 ![](https://i.imgur.com/mGOJD7N.jpg)
-
-**[Ver acá prototipo final MVP](https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scaling=contain&node-id=12%3A5)**
 
 #### Equipo de trabajo
 * **Carolina Jarpa** / UX research/entrevistas/encuesta/ test con usuarios
@@ -110,3 +108,5 @@ Por otro lado, varios usuarios mencionaron que antes de llegar hacer click en �
 
 #### Proyecto desarrollado para
 [Laboratoria Chile](http://www.laboratoria.la)
+
+**[Link de prototipo final MVP](https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scaling=contain&node-id=12%3A5)**
