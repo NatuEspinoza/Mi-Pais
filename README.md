@@ -1,4 +1,4 @@
-# Mi Viaje
+# Mi País 
 ## Propuesta de Valor
 Una plataforma sencilla, rápida y segura, donde se incluyen alertas personalizadas y un diseño visual para **mejorar la confianza al realizar cada uno de los tramites, especialmente en las transferencias de dinero** donde se permitirá al usuario confirmar que esta llego al destinatario correcto y avisar desde la misma app. También podrá arrepentirse de realizar la transferencia y visualizar la información del saldo antes y después de haber realizado la transacción.
 
